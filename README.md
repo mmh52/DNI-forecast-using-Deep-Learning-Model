@@ -1,6 +1,6 @@
 # Forecast Direct Normal Irradiance of Solar Energy using Deep Learning Model 
 
-This project uses a deep learning model to forecast short-term and long-term Direct Normal Irradiance, which is crucial in solar energy. Nowadays, the adoption of solar energy into the power grid has increased, and it has become essential to accurate forecasts of direct normal irradiance from solar power for the effective operation and maintenance of power systems, ensuring their ability. Photovoltaic panels track the sun to receive more DNI. DNI accounts for a large portion of PV solar energy.
+This project uses a deep learning model, Temporal Fusion Transformer, to forecast short-term and long-term Direct Normal Irradiance, which is crucial in solar energy. Nowadays, the adoption of solar energy into the power grid has increased, and it has become essential to accurate forecasts of direct normal irradiance from solar power for the effective operation and maintenance of power systems, ensuring their ability. Photovoltaic panels track the sun to receive more DNI. DNI accounts for a large portion of PV solar energy.
 
 ## Authors
 - [Md Mehedi Hasan](https://github.com/mmh52)
